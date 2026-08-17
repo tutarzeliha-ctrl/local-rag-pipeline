@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local Vector Databases
+chroma_db/
+test_chroma_db/
+pipeline_chroma_db/
+
+# Virtual environments
+venv/
+.venv/

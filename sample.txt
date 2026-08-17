@@ -1,0 +1,3 @@
+Data Engineering is the foundation of modern AI applications.
+Retrieval-Augmented Generation (RAG) combines search systems with LLMs.
+This project processes text documents and prepares them for semantic search.
